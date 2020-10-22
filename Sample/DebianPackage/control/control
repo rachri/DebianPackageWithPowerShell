@@ -1,0 +1,8 @@
+Package: HelloVersion
+Version: 1.0.0.0
+Architecture: armhf
+Maintainer: your name here <your@name>
+Installed-Size: 30309
+Priority: optional
+Description: Sample application to demo creation of
+    Debian package with PowerShell on Windows

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# preinst, postinst, prerm and postrm are optional scripts that are executed before or after installing or removing the package.
+echo "postrm was called"
+
+exit 0

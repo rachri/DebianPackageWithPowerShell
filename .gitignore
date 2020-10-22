@@ -1,0 +1,8 @@
+out/
+bin/
+obj/
+.vs/
+*.log
+*.user
+
+/Sample/DebianPackage/data/opt/HelloVersion
